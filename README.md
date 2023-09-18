@@ -6,7 +6,11 @@
 
 ## How to start
 
-```sh
+```shell
+# clone
+$ git clone https://github.com/{username}/{reponame}.git
+$ cd {reponame}
+
 # conda env activation
 $ activate bootcamp
 
